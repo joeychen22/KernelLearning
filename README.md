@@ -47,4 +47,4 @@ KERNELBASE!IsDebuggerPresent:
 
 ## Reference
 [1]https://learn.microsoft.com/en-us/windows/win32/api/winternl/ns-winternl-teb
-[2]https://stackoverflow.com/questions/14496730/mov-eax-large-fs30h# KernelLearning
+[2]https://stackoverflow.com/questions/14496730/mov-eax-large-fs30h# 
